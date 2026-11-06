@@ -1,0 +1,4 @@
+customtkinter>=5.2
+mysql-connector-python>=8.0
+python-dotenv>=1.0
+tkcalendar>=1.6
